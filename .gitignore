@@ -1,0 +1,33 @@
+# Arquivos e diretórios gerados pelo Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de build
+dist/
+build/
+out/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos e diretórios de desenvolvimento do IDE
+.vscode/
+
+
+# Arquivos e diretórios de logs
+logs/
+*.log
+
+# Arquivos de cache
+*.swp
+*.swo
+.DS_Store
+
+# Arquivos de credenciais
+credentials.json
+*.pem
+*.key
+*.pub
+
+# Outros arquivos e diretórios específicos do seu projeto
